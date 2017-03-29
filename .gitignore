@@ -1,0 +1,16 @@
+﻿/UFPT-Cinderella/UFPT-Cinderella.vcxproj.filters
+*.opendb
+*.db
+*.suo
+*.filters
+*.log
+*.pdb
+*.exe
+*.obj
+*.tlog
+*.ilk
+*.idb
+*.class
+*.classpath
+*.project
+*.settings
